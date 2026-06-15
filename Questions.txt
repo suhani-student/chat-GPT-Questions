@@ -1,0 +1,38 @@
+1.  Make a calculator (using loop , if else , function)
+
+2. Number guessing game 
+
+3. Student result grade or persentage system
+
+4. Password Genrator
+
+5. To Do list App teminal based
+
+6. Quiz App
+
+7. Expence Tracker
+
+8. Library managment system  (Book isshu , return system )
+
+9. Chatbot (simple Ai style)
+
+10. Typing speed tester
+
+11. text ko star pattern ya art me convert karo
+
+12. mini ATM Machine
+
+13. Python Alarm clock
+
+14. File Orgnizer
+
+15. button wali real calculator App
+
+16.Desktop Notes App 
+
+17. Weather App
+
+18. password strength checker
+
+19. File encryption Tool
+
